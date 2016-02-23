@@ -286,19 +286,28 @@
 				<div class="cbp-item">
 					<!-- Item Header -->
 					<h2 class="t-center light">
-						"Two experiences I believe most successful tech founders share are exposure to Silicon Valley and access to resources from family or friends" 
+						"Only 4% of Venture Capitalists are women and 2% are African-American or Hispanic"
 					</h2>
 					<!-- Item Description -->
-					<p class="uppercase light white t-center">James Norman, Founder of Pilotly</p>
+					<p class="uppercase light white t-center">National Venture Assocation</p>
 				</div>
 				<!-- Item -->
 				<div class="cbp-item">
 					<!-- Item Header -->
 					<h2 class="t-center light">
-						"Only 2% of Venture Capitalist are African-American or Hispanic"
+						"Nearly 80% of female entrepreneurs do not receive venture capital money and those who do are typically funded at the lowest levels"
 					</h2>
 					<!-- Item Description -->
-					<p class="uppercase light white t-center">National Venture Assocation</p>
+					<p class="uppercase light white t-center">Kauffman Foundation</p>
+				</div>
+				<!-- Item -->
+				<div class="cbp-item">
+					<!-- Item Header -->
+					<h2 class="t-center light">
+						"Two experiences I believe most successful tech founders share are exposure to Silicon Valley and access to resources from family or friends" 
+					</h2>
+					<!-- Item Description -->
+					<p class="uppercase light white t-center">James Norman, Founder of Pilotly</p>
 				</div>
 			</div>
 			<!-- End Slider -->
