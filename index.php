@@ -5,6 +5,11 @@
     <meta charset="utf-8" />
     <title>Transparent Collective // Accelerating Minority Founders, Connecting Progressive Investors</title>
 
+    <!-- Fav Icon -->
+    <link rel="icon" 
+      type="image/png" 
+      href="images/tc-logo-circle-orange.png">
+
    <?php include "meta-head.php" ?>
 
 	<!-- Page Fonts / Pacifico-->
